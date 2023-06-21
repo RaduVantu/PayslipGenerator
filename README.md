@@ -27,6 +27,32 @@
 <h3> Technology used </h3>
 	- <a href="https://netbeans.apache.org/download/index.html">NetBeans</a>
 
-<h3> Screenshots </h3>
-
-<p> Coming soon </p>
+<h3> Images </h3>
+<br/>
+<br/>
+<p align="center"> 
+	Main menu <br/>
+	<a href="https://imgur.com/4FkQHdM"><img src="https://i.imgur.com/4FkQHdM.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Add new sub-menu <br/>
+	<a href="https://imgur.com/LPLJaZo"><img src="https://i.imgur.com/LPLJaZo.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Add new employee <br/>
+	<a href="https://imgur.com/EYwrZeD"><img src="https://i.imgur.com/EYwrZeD.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	View employee sub-menu <br/>
+	<a href="https://imgur.com/mHC76Q8"><img src="https://i.imgur.com/mHC76Q8.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	View employees <br/>
+	<a href="https://imgur.com/mUVv0t3"><img src="https://i.imgur.com/mUVv0t3.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Payslip generated <br/>
+	<a href="https://imgur.com/DkSE68l"><img src="https://i.imgur.com/DkSE68l.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+</p>
